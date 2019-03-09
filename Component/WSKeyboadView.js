@@ -71,7 +71,7 @@ export class WSKeyboadViewCell extends Component{
                         <View style={cellStyles.imgae} >
                             <Image style={cellStyles.imgae}
                                    resizeMode={"center"}
-                                   source={require('../Asset/login.png')}
+                                   source={require('../Asset/login@2x.png')}
                             />
                             <View style={cellStyles.imgLine} />
                         </View>
