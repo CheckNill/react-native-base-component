@@ -19,6 +19,7 @@
     "react-native-root-modal": "^3.1.1",
     "react-native-linear-gradient": "^2.5.3",
     "react-native-program-stylesheet": "^1.0.8",
-    "react-native-device-info": "^0.21.5"
+    "react-native-device-info": "^0.21.5",
+    "react-native-looped-carousel": "^0.1.13"
   }
 }
