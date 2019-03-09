@@ -32,7 +32,7 @@ export default class WSAreaBtn extends Component{
                     <Text style={this.props.titleStyle} >{this.props.title}</Text>
                     <Image style={this.props.imageStyle}
                         // source={this.props.source}
-                        source={require('../Asset/pick_icon_slide@2x.png')}
+                        // source={require('../Asset/pick_icon_slide@2x.png')}
                     />
                 </View>
             </TouchableOpacity>
