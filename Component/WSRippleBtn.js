@@ -7,7 +7,7 @@
  */
 
 import React, {Component} from 'react';
-import {Platform, Image,StyleSheet, Text, View,ART,TouchableOpacity,Dimensions} from 'react-native';
+import {Platform, Image,StyleSheet, Text, View,ART,TouchableOpacity} from 'react-native';
 import PropTypes from 'prop-types'
 import WSRippleAniView from './WSRippleAniView'
 import Toast from 'react-native-root-toast'
@@ -23,7 +23,6 @@ export const WSBtnSendBill = 'WSBtnSendBill'
 export let WSBtnState = [WSBtnNomal, WSBtnWaitingOrder,WSBtnArrivalsBegian,WSBtnStartBilling,WSBtnArriveEnd,WSBtnSendBill]
 // let index = WSBtnState.indexOf('WSBtnWaitingOrder')
 let WSBtnTitle = ['点击出车', '接单中...','到达上车地点','开始计费','到达目的地','发起付款']
-let screenWidth = Dimensions.get('window').width
 global.btnState = WSBtnNomal
 
 {/* 使用方法 <WSRippleBtn btnState={global.btnState} />    */}
