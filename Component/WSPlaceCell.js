@@ -39,7 +39,6 @@ export class WSPlaceCore extends Component{
 }
 
 WSPlaceCore.defaultProps={
-    // source:require('../Asset/ic_add_record@2x.png'),
     title:'深圳北站',
     detalTitle:'广东省深圳市宝安区致远中路',
     tag:0,
@@ -62,7 +61,6 @@ export class WSPlaceCell extends Component{
 
 
 WSPlaceCell.defaultProps={
-    // source:require('../Asset/ic_add_record@2x.png'),
     title:'深圳北站',
     detalTitle:'广东省深圳市宝安区致远中路',
     marginVertical:12
@@ -95,7 +93,6 @@ export class WSTwoPlaceCell extends Component{
 
 
 WSTwoPlaceCell.defaultProps={
-    // source:require('../Asset/ic_add_record@2x.png'),
     title:'深圳北站',
     detalTitle:'广东省深圳市宝安区致远中路'
 }

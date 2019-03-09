@@ -84,7 +84,6 @@ WSErrorView.defaultProps={
     para:{
         title:'内容页面，根据实际文案安排',
         btnTitle:'重新加载',
-        // imgSource:require('../Asset/ic_bg_car1@2x.png'),
         offsetY:100,
         btnHiden:false
     },

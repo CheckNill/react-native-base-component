@@ -28,8 +28,6 @@ export default class WSHomeItem extends Component{
                     backgroundColor:this.props.backgroundColor,
                 }} >
                     <Image style={this.props.imageStyle}
-                           // source={this.props.source}
-                           // source={require('../Asset/login@2x.png')}
                     />
                     <Text style={this.props.titleStyle} >{this.props.title}</Text>
                 </View>
