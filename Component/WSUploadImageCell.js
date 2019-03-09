@@ -58,7 +58,7 @@ WSUploadImageCell.defaultProps={
     width:ProgramStyleSheet.getSize(100),
     backgroundColor:'white',
     title:'单行图片',
-    rightImgSoure:require('../../Assets/btn/ic_porfile_ent.png'),
+    rightImgSoure:require('../../Asset/btn/ic_porfile_ent.png'),
 
 }
 

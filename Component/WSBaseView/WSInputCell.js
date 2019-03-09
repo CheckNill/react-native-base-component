@@ -121,7 +121,7 @@ export default class WSInputCell extends WSBaseComponent{
         let _rightButtonStyle = [{height:this.props.style.height,position: 'relative',marginLeft:0,marginRight: 0},rightButtonStyle]
         if (arrowIcon === null){
             if (this.props.defaultArrowType === '>'){
-                arrowIcon = require('../../../Assets/icon/icon_arrow_right.png')
+                arrowIcon = require('../Asset/icon_arrow_right.png')
             }
         }
         if (rightButtonTitle){

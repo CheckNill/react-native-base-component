@@ -143,7 +143,7 @@ componentWillUnmount() {
    return (
     <View >
       <Image  
-         source={require('../Assets/pick_icon_slide.png')}
+         source={require('../Asset/pick_icon_slide.png')}
          style={{left:pageX,marginTop:-viewHeight-11,width:22,height:22}}
         {...this._gestureHandlers2}               
       />                   

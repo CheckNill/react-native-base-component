@@ -87,7 +87,7 @@ export class WSHeadPlaceView extends Component{
 }
 
 WSHeadPlaceView.defaultProps={
-    source:require('../Assets/ic_add_record.png'),
+    source:require('../Asset/ic_add_record.png'),
     title:'深圳北站',
     detalTitle:'广东省深圳市宝安区致远中路',
     data:['A1出口','A2出口','A3出口','A4出口','A5出口','A6出口','A7出口'],

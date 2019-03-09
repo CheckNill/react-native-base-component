@@ -74,8 +74,8 @@ export class WSSingleSelectView extends Component{
 
 WSSingleSelectView.defaultProps={
     backgroundColor:'white',
-    nomalImg:require('../../Assets/btn/select.png'),
-    selectedImg:require('../../Assets/btn/selected_pay.png'),
+    nomalImg:require('../Asset/select.png'),
+    selectedImg:require('../Asset/selected_pay.png'),
     data:[
         {title:'多行列表',detail:'详细信息'},
         {title:'多行列表',detail:'详细信息'},

@@ -149,8 +149,8 @@ WSCardCell.defaultProps={
     detalTitle:'查看详情',
     timeDetail:'时间段',
     type:0 ,// 0 纯标题样式   1 标题 描述样式  2 标题、描述、查看详情样式  3、图片、标题、描述、查看详情样式
-    source:require('../Assets/ic_ent.png'),
-    imgSource:require('../Assets/ic_add_record.png')
+    source:require('../Asset/ic_ent.png'),
+    imgSource:require('../Asset/ic_add_record.png')
 }
 
 

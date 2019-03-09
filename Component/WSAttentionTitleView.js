@@ -60,9 +60,9 @@ WSAttentionTitleView.defaultProps = {
         flex: 1
     },
     isDisable: false,
-    sourceLeft: require('../Assets/notification_bar_close.png'),
+    sourceLeft: require('../Asset/notification_bar_close.png'),
     isDisableRight: false,
-    sourceRight: require('../Assets/notification_bar_next.png'),
+    sourceRight: require('../Asset/notification_bar_next.png'),
     marginRight: 12,
     imageStyle: {
         height: 20,

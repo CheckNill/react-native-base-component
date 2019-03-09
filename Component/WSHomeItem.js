@@ -29,7 +29,7 @@ export default class WSHomeItem extends Component{
                 }} >
                     <Image style={this.props.imageStyle}
                            // source={this.props.source}
-                           source={require('../Assets/login.png')}
+                           source={require('../Asset/login.png')}
                     />
                     <Text style={this.props.titleStyle} >{this.props.title}</Text>
                 </View>
