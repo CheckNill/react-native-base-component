@@ -9,7 +9,7 @@ import {
     WSAlertHeaderView,
     WSAlertViewImageHeaderView,
     WSAlertViewProgressHeaderView,
-    WSAlertView
+    WSAlertView,
     WSAniBtnLine,
     WSAreaBtn,
     WSAreaShowTool,
@@ -113,7 +113,7 @@ export {
     WSAlertHeaderView,
     WSAlertViewImageHeaderView,
     WSAlertViewProgressHeaderView,
-    WSAlertView
+    WSAlertView,
     WSAniBtnLine,
     WSAreaBtn,
     WSAreaShowTool,
