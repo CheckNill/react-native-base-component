@@ -24,7 +24,7 @@ import {
 
 import ProgramStyleSheet from 'react-native-program-stylesheet';
 import {kWindow} from "./WSBaseComponent";
-import {kCuttingLineColor,kTextAssistColor, kModalBgColor,kTitleColor,kTextInputPlaceholdColor,kColordf4f5f6,kHighlightColor,kBgColor,kColorf0f0f0} from "../WSStyles/WSStyles";
+import {kCuttingLineColor,kTextAssistColor, kModalBgColor,kTitleColor,kTextInputPlaceholdColor,kColordf4f5f6,kHighlightColor,kBgColor,kColorf0f0f0} from "./WSComponentStyle";
 import {WSPlaceCell, WSPlaceCore} from "./WSPlaceCell";
 
 
